@@ -1,4 +1,4 @@
-var canva;
+var canvas;
 var gameState = 0;
 var contestantCount,contestant;
 var quiz;
